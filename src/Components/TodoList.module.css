@@ -1,0 +1,51 @@
+.wrapper{
+ display: flex;
+ justify-content: center;
+
+
+}
+.box{
+    border: 1px solid rgb(177, 176, 176);
+    display: flex;
+    width: 445px;
+    justify-content: space-between;
+    height:40px;
+    justify-items: center;
+    align-items: center;
+    margin-top: 5px;
+    border-radius: 7px;
+
+}
+button{
+    height: 30px;
+    border-radius:12px;
+    
+}
+
+.del{
+    height: 30px;
+    border-radius:50%;
+    width: 30px;
+    margin-top:auto;
+    margin-bottom: auto;
+    margin-right:10px;
+    background-color: red;
+    border:1px solid red;
+    color: white;
+    padding-right: 27px;
+}
+h3{
+    color:rgb(0, 136, 255);
+}
+.strike{
+    text-decoration:line-through 2px rgb(42, 42, 42);
+    font-weight: 100;
+    font-size: small;
+    color: red;
+    
+}
+.div3{
+    border:1px solid black;
+
+}
+
